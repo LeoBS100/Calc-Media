@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../sites/AulaHtml"
+		},
+		{
+			"path": "../../../../../../sites/Sozinho"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AulaHtml"
+	}
+}
